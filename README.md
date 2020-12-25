@@ -11,3 +11,4 @@ Useful links:
   * http://sia.webpopix.org/mixtureModels.html
   * https://towardsdatascience.com/mixture-modelling-from-scratch-in-r-5ab7bfc83eef (open it with **InPrivate** mode)
   * https://tinyheero.github.io/2015/10/13/mixture-model.html & https://tinyheero.github.io/2016/01/03/gmm-em.html
+  * https://www.researchgate.net/profile/Thomas_Murphy7/publication/257428214_MCLUST_Version_4_for_R_Normal_Mixture_Modeling_for_Model-Based_Clustering_Classification_and_Density_Estimation/links/00b7d53c4d92c86041000000/MCLUST-Version-4-for-R-Normal-Mixture-Modeling-for-Model-Based-Clustering-Classification-and-Density-Estimation.pdf
