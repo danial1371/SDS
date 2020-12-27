@@ -16,7 +16,4 @@ Useful links:
   * http://www.cs.toronto.edu/~rgrosse/csc321/mixture_models.pdf
 
 **AIC & BIC**
-  *
-  *
-  *
-  *
+
